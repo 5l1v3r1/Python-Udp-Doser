@@ -6,6 +6,8 @@ import random
 import os
 from threading import Thread
 
+os.system('clear')
+
 def udp():
         tar = (url,port)
         bytes = random._urandom(1024)
