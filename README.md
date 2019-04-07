@@ -11,7 +11,7 @@ I Make A Mistake In My Country
 
 So I Can't Upload Any High Power Scripts 
 
-But I Will Make All Public On My ""Discord"" In Future
+But I Will Make All Of My Scripts Be Public On My "D.i.s.c.o.r.d" In Future
 
 Thanks For All Of You
 
