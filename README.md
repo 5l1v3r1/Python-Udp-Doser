@@ -7,12 +7,12 @@ Usage : python3 Pyudp.py
 ******************************************************
 I Need To Tell Something 
 
-I Got A Mistake In My Country
+I Make A Mistake In My Country
 
 So I Can't Upload Any High Power Scripts 
 
-But I Will Make All Public In My Discord 
+But I Will Make All Public On My ""Discord"" In Future
 
-Thanks A lot
+Thanks For All Of You
 
 ******************************************************
